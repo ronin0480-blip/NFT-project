@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg62" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3A2E5C" />
+      <stop offset="100%" stop-color="#1B1035" />
+    </linearGradient>
+    <filter id="glow62" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg62)" />
+  <circle cx="300" cy="300" r="55" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.3" /><circle cx="300" cy="300" r="110" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.24999999999999997" /><circle cx="300" cy="300" r="165" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.19999999999999996" /><circle cx="300" cy="300" r="220" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.14999999999999997" />
+  <g><path d="M 300 300 Q 199.46623565102954 281.75061942404614 87.96766311666894 218.77052748491366 Q 213.00611202807022 246.407639340036 300 300 Z" fill="#FF6B6B" opacity="0.88" filter="url(#glow62)" /><path d="M 300 300 Q 286.289550622793 198.74733957344444 311.73222369670776 73.24397689054439 Q 324.0867740392222 200.70294575384537 300 300 Z" fill="#FFA36C" opacity="0.88" filter="url(#glow62)" /><path d="M 300 300 Q 392.0602406328218 255.67179498099117 519.2832498915133 241.086543079686 Q 401.88033300750766 292.2234061530983 300 300 Z" fill="#FFD56B" opacity="0.88" filter="url(#glow62)" /><path d="M 300 300 Q 370.6068071007849 373.85632306453437 423.7922778997842 490.34550433794897 Q 338.8787345445754 394.4908549320661 300 300 Z" fill="#FF8FA3" opacity="0.88" filter="url(#glow62)" /><path d="M 300 300 Q 251.5771659925707 389.9739229569839 157.2245853953259 476.553448206907 Q 222.14804638062458 366.17515382095416 300 300 Z" fill="#FF6B6B" opacity="0.88" filter="url(#glow62)" /></g>
+  <polygon fill="#FF8FA3" points="300,266 329.4448637286709,283 329.4448637286709,317 300,334 270.5551362713291,317 270.5551362713291,283" />
+  <circle cx="300" cy="300" r="260" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.35" />
+</svg>

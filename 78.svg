@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg79" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7B7B" />
+      <stop offset="100%" stop-color="#4EC5C1" />
+    </linearGradient>
+    <filter id="glow79" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg79)" />
+  <line x1="450.0" y1="300.0" x2="680.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="357.4" x2="651.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="406.1" x2="568.7" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="438.6" x2="445.4" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="450.0" x2="300.0" y2="680.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="438.6" x2="154.6" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="406.1" x2="31.3" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="357.4" x2="-51.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="150.0" y1="300.0" x2="-80.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="242.6" x2="-51.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="193.9" x2="31.3" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="161.4" x2="154.6" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="150.0" x2="300.0" y2="-80.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="161.4" x2="445.4" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="193.9" x2="568.7" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="242.6" x2="651.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" />
+  <g><path d="M 300 300 Q 231.41795623851206 360.5829157364495 112.68773027543057 379.1589871295905 Q 208.7566716159197 306.95998786114404 300 300 Z" fill="#E8B4B8" opacity="0.88" filter="url(#glow79)" /><path d="M 300 300 Q 213.24263405615875 270.89766572732015 137.79017134564452 177.3623095427953 Q 248.35080951017773 224.4609536241128 300 300 Z" fill="#D4A5A5" opacity="0.88" filter="url(#glow79)" /><path d="M 300 300 Q 281.82467781764666 210.3147499908706 325.1024410702139 98.20332241320483 Q 339.59413789425804 217.5009657629687 300 300 Z" fill="#C97B7B" opacity="0.88" filter="url(#glow79)" /><path d="M 300 300 Q 368.5820437614879 239.4170842635505 487.31226972456943 220.84101287040957 Q 391.2433283840803 293.04001213885596 300 300 Z" fill="#F6E3E1" opacity="0.88" filter="url(#glow79)" /><path d="M 300 300 Q 386.75736594384125 329.10233427267985 462.20982865435553 422.6376904572047 Q 351.6491904898222 375.5390463758872 300 300 Z" fill="#E8B4B8" opacity="0.88" filter="url(#glow79)" /><path d="M 300 300 Q 318.17532218235334 389.6852500091294 274.89755892978593 501.7966775867951 Q 260.40586210574196 382.4990342370313 300 300 Z" fill="#D4A5A5" opacity="0.88" filter="url(#glow79)" /></g>
+  <polygon fill="#F6E3E1" points="300,266 334,300 300,334 266,300" />
+  <circle cx="300" cy="300" r="260" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.35" />
+</svg>

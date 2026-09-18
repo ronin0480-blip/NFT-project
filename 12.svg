@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg13" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D9F2E6" />
+      <stop offset="100%" stop-color="#8FD9C4" />
+    </linearGradient>
+    
+  </defs>
+  <rect width="600" height="600" fill="url(#bg13)" />
+  <circle cx="300" cy="300" r="55" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.3" /><circle cx="300" cy="300" r="110" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.24999999999999997" /><circle cx="300" cy="300" r="165" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.19999999999999996" /><circle cx="300" cy="300" r="220" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.14999999999999997" />
+  <g><path d="M 300 300 Q 352.79689799087225 425.86007609389253 354.0524148148055 598.4456384810096 Q 294.6986550967321 436.38242897835335 300 300 Z" fill="#4FC3F7" opacity="0.88"  /><path d="M 300 300 Q 196.61509321895966 389.10573630072645 32.86444552754722 443.6316755188233 Q 168.6543965438233 337.1026096730645 300 300 Z" fill="#0288D1" opacity="0.88"  /><path d="M 300 300 Q 183.30771569470534 229.21029753254174 80.8487329176696 90.32361885071933 Q 224.12529769448503 186.5482448709211 300 300 Z" fill="#B3E5FC" opacity="0.88"  /><path d="M 300 300 Q 331.2651088555024 167.14382152089206 431.69262273796664 26.781194292843566 Q 384.45245854508846 192.7803495738346 300 300 Z" fill="#01579B" opacity="0.88"  /><path d="M 300 300 Q 436.0151842399604 288.68006855194716 600.5417840020109 340.8178728566043 Q 428.06919211987116 347.1863669038264 300 300 Z" fill="#4FC3F7" opacity="0.88"  /></g>
+  <polygon fill="#01579B" points="300,266 334,300 300,334 266,300" />
+  
+</svg>

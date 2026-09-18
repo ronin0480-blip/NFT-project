@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg32" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#021C34" />
+      <stop offset="100%" stop-color="#04516E" />
+    </linearGradient>
+    
+  </defs>
+  <rect width="600" height="600" fill="url(#bg32)" />
+  <line x1="450.0" y1="300.0" x2="680.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="357.4" x2="651.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="406.1" x2="568.7" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="438.6" x2="445.4" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="450.0" x2="300.0" y2="680.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="438.6" x2="154.6" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="406.1" x2="31.3" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="357.4" x2="-51.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="150.0" y1="300.0" x2="-80.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="242.6" x2="-51.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="193.9" x2="31.3" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="161.4" x2="154.6" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="150.0" x2="300.0" y2="-80.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="161.4" x2="445.4" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="193.9" x2="568.7" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="242.6" x2="651.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" />
+  <g><path d="M 300 300 Q 217.7240994132948 216.62974683910798 157.99870048634162 81.85248852909424 Q 257.0669929948485 191.0198190542875 300 300 Z" fill="#5E35B1" opacity="0.88"  /><path d="M 300 300 Q 353.8651710250473 195.9881435609044 463.5897975249293 97.53745045004172 Q 390.3792824512343 225.49155596132317 300 300 Z" fill="#7E57C2" opacity="0.88"  /><path d="M 300 300 Q 415.5664070900105 319.0873906485564 543.1053545967782 393.0187744000718 Q 398.79047543884127 362.9314300809407 300 300 Z" fill="#B39DDB" opacity="0.88"  /><path d="M 300 300 Q 317.55879651428603 415.8085126164503 286.6575744629751 559.9513137210613 Q 270.6765891347314 413.40220678933576 300 300 Z" fill="#311B92" opacity="0.88"  /><path d="M 300 300 Q 195.28552595736147 352.4862063349811 48.64857292897594 367.639972899731 Q 183.0866599803447 307.15498811411277 300 300 Z" fill="#5E35B1" opacity="0.88"  /></g>
+  <circle fill="#311B92" cx="300" cy="300" r="34" />
+  
+</svg>

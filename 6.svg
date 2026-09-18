@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#021C34" />
+      <stop offset="100%" stop-color="#04516E" />
+    </linearGradient>
+    <filter id="glow7" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg7)" />
+  <line x1="450.0" y1="300.0" x2="680.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="357.4" x2="651.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="406.1" x2="568.7" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="438.6" x2="445.4" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="450.0" x2="300.0" y2="680.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="438.6" x2="154.6" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="406.1" x2="31.3" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="357.4" x2="-51.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="150.0" y1="300.0" x2="-80.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="242.6" x2="-51.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="193.9" x2="31.3" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="161.4" x2="154.6" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="150.0" x2="300.0" y2="-80.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="161.4" x2="445.4" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="193.9" x2="568.7" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="242.6" x2="651.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" />
+  <g><path d="M 300 300 Q 390.8419933918383 295.1324530222086 496.9577173255076 345.5697234409802 Q 379.4724702031157 344.27287269647957 300 300 Z" fill="#FF6B6B" opacity="0.88" filter="url(#glow7)" /><path d="M 300 300 Q 360.444657929959 367.9882644631707 387.17328371630947 482.40000195909477 Q 314.9363490067577 389.73776381954326 300 300 Z" fill="#FFA36C" opacity="0.88" filter="url(#glow7)" /><path d="M 300 300 Q 284.5312622004999 389.6475260555143 211.74558945780632 481.879358720037 Q 239.15285236231685 367.62828846970615 300 300 Z" fill="#FFD56B" opacity="0.88" filter="url(#glow7)" /><path d="M 300 300 Q 220.26614153881093 343.80037205178587 102.77526639946723 344.399848702004 Q 209.18849894466592 294.59333253650146 300 300 Z" fill="#FF8FA3" opacity="0.88" filter="url(#glow7)" /><path d="M 300 300 Q 216.04224257270192 264.9706445282992 142.3191903937183 173.48634701950346 Q 247.60705803871437 225.62970747922827 300 300 Z" fill="#FF6B6B" opacity="0.88" filter="url(#glow7)" /><path d="M 300 300 Q 275.04024737548974 212.51873614363444 300.59998012384233 97.84020643952724 Q 325.4785710508578 212.6684295675946 300 300 Z" fill="#FFA36C" opacity="0.88" filter="url(#glow7)" /><path d="M 300 300 Q 352.8334549907002 225.94200373538683 458.4289725833488 174.4245137188532 Q 384.16420039357166 265.4696054309466 300 300 Z" fill="#FFD56B" opacity="0.88" filter="url(#glow7)" /></g>
+  <circle fill="#FF8FA3" cx="300" cy="300" r="34" />
+  <circle cx="300" cy="300" r="260" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.35" />
+</svg>

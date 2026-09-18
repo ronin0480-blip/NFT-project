@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg70" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#021C34" />
+      <stop offset="100%" stop-color="#04516E" />
+    </linearGradient>
+    <filter id="glow70" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg70)" />
+  <line x1="450.0" y1="300.0" x2="680.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="357.4" x2="651.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="406.1" x2="568.7" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="438.6" x2="445.4" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="450.0" x2="300.0" y2="680.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="438.6" x2="154.6" y2="651.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="406.1" x2="31.3" y2="568.7" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="357.4" x2="-51.1" y2="445.4" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="150.0" y1="300.0" x2="-80.0" y2="300.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="161.4" y1="242.6" x2="-51.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="193.9" y1="193.9" x2="31.3" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="242.6" y1="161.4" x2="154.6" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="300.0" y1="150.0" x2="300.0" y2="-80.0" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="357.4" y1="161.4" x2="445.4" y2="-51.1" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="406.1" y1="193.9" x2="568.7" y2="31.3" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" /><line x1="438.6" y1="242.6" x2="651.1" y2="154.6" stroke="#FFFFFF" stroke-width="1.5" opacity="0.25" />
+  <g><path d="M 300 300 Q 226.38526280370456 216.0931977345221 179.62926880548798 83.1148038689069 Q 267.7403351185971 193.1412379791099 300 300 Z" fill="#F5F5F5" opacity="0.88" filter="url(#glow70)" /><path d="M 300 300 Q 319.70294169596946 190.1306453672232 394.51775107448475 70.66466482256618 Q 363.431972260556 208.15303002257667 300 300 Z" fill="#BDBDBD" opacity="0.88" filter="url(#glow70)" /><path d="M 300 300 Q 398.18390362440374 246.901957964804 538.2324389736393 230.90871075312435 Q 411.3580405138882 292.3274637957927 300 300 Z" fill="#757575" opacity="0.88" filter="url(#glow70)" /><path d="M 300 300 Q 402.7303835370235 343.6571792175547 502.5532412695096 443.1799066920355 Q 375.4292329702061 382.27947382199295 300 300 Z" fill="#212121" opacity="0.88" filter="url(#glow70)" /><path d="M 300 300 Q 329.91878932833725 407.5376540753248 314.34732155630206 547.6337125540144 Q 282.7006745240119 410.27336186483785 300 300 Z" fill="#F5F5F5" opacity="0.88" filter="url(#glow70)" /><path d="M 300 300 Q 234.57773652333282 390.4400820459999 115.33757607917525 465.61428205565426 Q 202.99886100316667 355.22915925681525 300 300 Z" fill="#BDBDBD" opacity="0.88" filter="url(#glow70)" /><path d="M 300 300 Q 188.5009824872286 305.2392835945713 55.38240224140094 258.8839192536981 Q 196.34088360957406 258.59627325887476 300 300 Z" fill="#757575" opacity="0.88" filter="url(#glow70)" /></g>
+  <polygon fill="#212121" points="300,266 329.4448637286709,283 329.4448637286709,317 300,334 270.5551362713291,317 270.5551362713291,283" />
+  <circle cx="300" cy="300" r="260" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.35" />
+</svg>

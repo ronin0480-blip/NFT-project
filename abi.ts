@@ -1,0 +1,68 @@
+export const fractureBloomAbi = [
+  {
+    type: "function",
+    name: "phase",
+    stateMutability: "view",
+    inputs: [],
+    outputs: [{ name: "", type: "uint8" }],
+  },
+  {
+    type: "function",
+    name: "totalSupply",
+    stateMutability: "view",
+    inputs: [],
+    outputs: [{ name: "", type: "uint256" }],
+  },
+  {
+    type: "function",
+    name: "MAX_SUPPLY",
+    stateMutability: "view",
+    inputs: [],
+    outputs: [{ name: "", type: "uint256" }],
+  },
+  {
+    type: "function",
+    name: "MAX_PER_WALLET",
+    stateMutability: "view",
+    inputs: [],
+    outputs: [{ name: "", type: "uint256" }],
+  },
+  {
+    type: "function",
+    name: "allowlistPrice",
+    stateMutability: "view",
+    inputs: [],
+    outputs: [{ name: "", type: "uint256" }],
+  },
+  {
+    type: "function",
+    name: "publicPrice",
+    stateMutability: "view",
+    inputs: [],
+    outputs: [{ name: "", type: "uint256" }],
+  },
+  {
+    type: "function",
+    name: "mintedPerWallet",
+    stateMutability: "view",
+    inputs: [{ name: "", type: "address" }],
+    outputs: [{ name: "", type: "uint256" }],
+  },
+  {
+    type: "function",
+    name: "publicMint",
+    stateMutability: "payable",
+    inputs: [{ name: "quantity", type: "uint256" }],
+    outputs: [],
+  },
+  {
+    type: "function",
+    name: "allowlistMint",
+    stateMutability: "payable",
+    inputs: [
+      { name: "quantity", type: "uint256" },
+      { name: "proof", type: "bytes32[]" },
+    ],
+    outputs: [],
+  },
+] as const;

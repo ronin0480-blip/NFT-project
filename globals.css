@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-ink text-paper;
+    background-image: radial-gradient(circle at 15% 10%, rgba(201, 155, 63, 0.08), transparent 45%),
+      radial-gradient(circle at 85% 90%, rgba(232, 90, 79, 0.07), transparent 40%);
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    background: #e85a4f;
+    color: #16211a;
+  }
+
+  *:focus-visible {
+    outline: 2px solid #c99b3f;
+    outline-offset: 3px;
+  }
+}
+
+@layer utilities {
+  .hairline {
+    border-color: #3a4a3c;
+  }
+
+  .plate-number {
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.02em;
+  }
+}

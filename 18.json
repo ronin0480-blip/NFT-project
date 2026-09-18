@@ -1,0 +1,32 @@
+{
+  "name": "Fracture Bloom #18",
+  "description": "Fracture Bloom is a 100-piece generative art collection of radially-symmetric blooms, each rendered as pure vector art from a unique seed. No two blooms share the same combination of background, palette, petal count, core shape and overlay.",
+  "image": "ipfs://REPLACE_WITH_IMAGES_CID/18.svg",
+  "external_url": "https://your-mint-site.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Sea"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Botanic"
+    },
+    {
+      "trait_type": "Petal Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Core Shape",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "None"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    }
+  ]
+}
